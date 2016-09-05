@@ -1,3 +1,2 @@
-# This
-This is the first test
-I write something down.
+# ShopwareGuestbookPlugin
+This is a Guestbook Plugin for Shopware
